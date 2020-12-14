@@ -1,0 +1,20 @@
+
+public class TestaConversao {
+	
+	public static void main(String[] args) {
+		double salario = 1270.50;
+		int valor =(int) salario;
+		System.out.println(valor);
+		 
+		long numeroGrande = 23254124L;
+		short valorPequeno = 2131;
+		byte b = 127;
+	
+		double valor1 = 0.2
+		double valor = 0.1
+		double total = valor1 + valor02;
+		
+		System.out.println(total);
+  }
+	
+}
