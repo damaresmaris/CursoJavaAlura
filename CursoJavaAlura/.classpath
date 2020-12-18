@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="bytebank-composto/src"/>
+	<classpathentry kind="src" path="bytebank-encapsulado/src"/>
+	<classpathentry kind="src" path="bytebank/src"/>
+	<classpathentry kind="src" path="java01/Curso-Java-parte-1-Primeiros-passos-capitulo3/Curso-Java-parte-1-Primeiros-passos-capitulo3/sintaxe-basica/src"/>
+	<classpathentry kind="src" path="sintaxe-basica/src"/>
+	<classpathentry kind="src" path="sintaxe-variaveis-e-fluxo/src"/>
+	<classpathentry kind="output" path="bytebank/bin"/>
+</classpath>
